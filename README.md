@@ -68,15 +68,6 @@ It transforms information into structured insight.
 
 ---
 
-## Related Repositories
-
-- Product Leadership Operating System (PLOS) → system-level architecture  
-- Executive Product Mental Models → frameworks influenced by signals  
-- Executive Product AI Fluency → tools and trends discovered here  
-- Executive Product Experimentation Lab → ideas generated from signals  
-
----
-
 ## Guiding Principle
 
 Not all information is signal.
@@ -109,4 +100,3 @@ Each repository is intended to stand alone while also contributing to a coherent
 - [Executive Product Mental Models](https://github.com/ChuckFerrando/executive-product-mental-models) → decision frameworks  
 - [Executive Product AI Fluency](https://github.com/ChuckFerrando/executive-product-ai-fluency) → tools and capabilities  
 - [Executive Product Experimentation Lab](https://github.com/ChuckFerrando/executive-product-experimentation-lab) → applied builds and prototypes  
-- [Executive Product Signal Center](https://github.com/ChuckFerrando/executive-product-signal-center) → curated market intelligence  
